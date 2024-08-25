@@ -1,1 +1,1 @@
-To view on browser, please open on Chrome. Safari doesn't work.
+To view pdfs in browser, please open on Chrome. Safari doesn't work.
